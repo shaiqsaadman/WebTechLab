@@ -1,0 +1,4 @@
+/Users/shaiqsaadman/Desktop/c# git/MidAssignment/MidAssignment/obj/Debug/netcoreapp3.1/MidAssignment.csprojAssemblyReference.cache
+/Users/shaiqsaadman/Desktop/c# git/MidAssignment/MidAssignment/obj/Debug/netcoreapp3.1/MidAssignment.AssemblyInfoInputs.cache
+/Users/shaiqsaadman/Desktop/c# git/MidAssignment/MidAssignment/obj/Debug/netcoreapp3.1/MidAssignment.AssemblyInfo.cs
+/Users/shaiqsaadman/Desktop/c# git/MidAssignment/MidAssignment/obj/Debug/netcoreapp3.1/MidAssignment.csproj.CoreCompileInputs.cache
